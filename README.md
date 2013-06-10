@@ -1,7 +1,9 @@
 Tiltable Asteroids
 ==================
 
-Based on the well know game [Asteroids](http://en.wikipedia.org/wiki/Asteroids_%28video_game%29), this project brings another way to pilot your ship with a mobile.
+Based on the well know [Asteroids](http://en.wikipedia.org/wiki/Asteroids_%28video_game%29) game, this project introduces another way to pilot your ship using a mobile phone.
+
+The original game was reimplemented in JavaScript and SVG with [Raphaël.js](http://raphaeljs.com/), and a custom gaming loop. The synchronization between the desktop and the mobile screens also uses JavaScript ([Node.js](http://nodejs.org/) and [Socket.io](http://socket.io/)). The mobile webapp uses [Hammer.js](http://eightmedia.github.io/hammer.js/) for gesture and orientation detection.
 
 Demo
 ----
@@ -9,6 +11,7 @@ Demo
 
 Installation
 ------------
+
 ```sh
 git clone https://github.com/marmelab/AsteroidTilt.git
 cd AsteroidTilt
@@ -22,9 +25,10 @@ The desktop & mobile application should connect to the node server via his host.
 
 Getting Up And Running
 ----------------------
+
 ```sh
 npm start
 ```
 
-Desktop URL : http://{your host}:3000/display
-Device URL : http://{your host}:3000/
+* Desktop URL: `http://{your host}:3000/display`
+* Device URL: `http://{your host}:3000/`
