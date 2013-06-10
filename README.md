@@ -1,7 +1,7 @@
 Tiltable Asteroids
 ==================
 
-Based on the well know game [Asteroids](http://en.wikipedia.org/wiki/Asteroids_(video_game)), this project brings another way to pilot your ship with a mobile.
+Based on the well know game [Asteroids](http://en.wikipedia.org/wiki/Asteroids_%28video_game%29), this project brings another way to pilot your ship with a mobile.
 
 Demo
 ----
@@ -18,7 +18,7 @@ npm install
 Configuration
 -------------
 
-The desktop & mobile application should connect to the application via his host. This host can be configured in the `constants.js` file.
+The desktop & mobile application should connect to the node server via his host. This host can be configured in the `constants.js` file.
 
 Getting Up And Running
 ----------------------
