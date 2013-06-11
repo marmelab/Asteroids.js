@@ -5,7 +5,7 @@ Based on the well know [Asteroids](http://en.wikipedia.org/wiki/Asteroids_%28vid
 
 The original game was reimplemented in JavaScript and SVG with [Raphaël.js](http://raphaeljs.com/), and a custom gaming loop. The synchronization between the desktop and the mobile screens also uses JavaScript ([Node.js](http://nodejs.org/) and [Socket.io](http://socket.io/)). The mobile webapp uses [Hammer.js](http://eightmedia.github.io/hammer.js/) for gesture and orientation detection.
 
-It was developed in a single day (about 9 hours) during one of the marmelab Hacking Days.
+It was developed in a single day (about 9 hours) during one of the [marmelab](http://marmelab.com) Hacking Days by [Emmanuel Quentin](https://github.com/manuquentin).
 
 Demo
 ----
