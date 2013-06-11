@@ -1,5 +1,5 @@
-Tiltable Asteroids
-==================
+Asteroids.js
+============
 
 Based on the well know [Asteroids](http://en.wikipedia.org/wiki/Asteroids_%28video_game%29) game, this project introduces another way to pilot your ship using a mobile phone.
 
