@@ -9,7 +9,7 @@ It was developed in a single day (about 9 hours) during one of the [marmelab](ht
 
 Demo
 ----
-[![Tiltable asteroids demo](http://marmelab.github.io/Asteroids.js/demo.png)](http://vimeo.com/68195777)
+[![Tiltable asteroids demo](http://marmelab.github.io/Asteroids.js/demo.png)](https://vimeo.com/68198347)
 
 Installation
 ------------
